@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "id": 5,
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/qmn3jtupnssxRsoocrppeMIXsll.jpg",
+      "name": "Bizden Geriye Kalanlar",
+      "ozetbilgi": "Naughty Dog tarafından geliştirilen video oyunundan uyarlanan dizi",
+      "overview": "Naughty Dog tarafından geliştirilen video oyunundan uyarlanan dizi, biyolojik bir kıyamette modern uygarlığın yok edilmesinden yirmi yıl sonra geçiyor. Hikaye, Ellie adındaki bir kızı baskıcı bir karantina bölgesinden kaçırmak için tutulan sert bir hayatta kalan Joel'e odaklanıyor. İkili hayatta kalmak için birbirlerine bağımlı hale geldiklerinde, görünüşte küçük olan bu iş acımasız bir yolculuğa dönüşür.",
+      "rating": "9"
+    },
+    {
+      "id": 6,
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/vvKuYw2vmaBbWNgNxEQkuYYpX2l.jpg",
+      "name": "Three-Body",
+      "ozetbilgi": "Merak uyandıran birçok bilim adamının intiharı",
+      "overview": "Nanoteknoloji araştırmacısı Wang Miao, polis memuru Shi Qiang tarafından merak uyandıran birçok bilim adamının intiharını araştırmak için Joint Operations Center'a götürülür ve Bilimlerin Sınırları adlı bir organizasyona gizlice girmeye çağrılır. Wang Miao, intihar ettiği bilim adamı Yang Dong'un annesi olan astrofizikçi Ye Wenjie ile temas kurar, Three-Body adlı sofistike bir sanal gerçeklik video oyununa tanıtılır ve arkasındaki gizli anlamı keşfeder.",
+      "rating": "8,4"
+    }
+  ]
+}
